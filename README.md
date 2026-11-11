@@ -6,7 +6,7 @@
 
 👨‍💻 Currently building **Forma**, a browser based website builder with AI generation and Vercel publishing.<br>
 🧩 I enjoy making practical tools that turn ideas into working web experiences.<br>
-🚀 [Explore Forma](https://github.com/tsan47868-jpg/forma)
+🚀 [Explore Forma](https://github.com/tsan47868-jpg/forma-react)
 
 ### 💻 Tech Stack
 
@@ -31,7 +31,7 @@ Also using:
 ### 🔗 Find me
 
 - [GitHub](https://github.com/tsan47868-jpg)
-- [Forma repository](https://github.com/tsan47868-jpg/forma)
+- [Forma repository](https://github.com/tsan47868-jpg/forma-react)
 
 ---
 
