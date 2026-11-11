@@ -10,9 +10,12 @@
 
 ### 💻 Tech Stack
 
-The main tools used in my current project:
+Languages and tools used across my public projects:
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,html,css,git,vercel" alt="JavaScript, React, Vite, Node.js, HTML, CSS, Git, and Vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,rust,kotlin,html,css" alt="JavaScript, TypeScript, Python, Rust, Kotlin, HTML, and CSS" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,mysql,git,vercel" alt="React, Vite, Node.js, MySQL, Git, and Vercel" />
 </p>
 
 Also using:
