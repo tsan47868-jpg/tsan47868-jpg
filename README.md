@@ -25,11 +25,6 @@ Also using:
   <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square" alt="OpenRouter" />
 </p>
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsan47868-jpg&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph for tsan47868-jpg" />
-</p>
 
 ### 🔗 Find me
 
